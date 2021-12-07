@@ -1,0 +1,29 @@
+body {
+  font-family: 'B612';
+  background-color: #ffcc33;
+  color: #cc6600;
+}
+h1 {
+  font-size: 60px;
+  font-family: 'Chivo';
+}
+p {
+  font-size: 28px;
+}
+img {
+  width: 100%;
+  border-style: groove;
+  border-width: 5px;
+  border-color: transparent;
+  transition: border-color .2s;
+}
+img:hover {
+  border-color: #cc6600;
+}
+li {
+  font-size: 26px;
+}
+p.caption {
+  font-size: 23px;
+  font-style: italic;
+}
